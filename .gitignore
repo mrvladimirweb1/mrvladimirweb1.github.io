@@ -3,6 +3,7 @@ node_modules/
 
 # Src files
 src/
+dist/
 
 # Package json
 package-lock.json
